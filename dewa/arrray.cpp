@@ -48,7 +48,7 @@ public:
 
 int main()
 {
-    Array a2 = Array(6);
+    Array a2 = Array(2);
     a2.Insert(5, 0);
     a2.Insert(6, 1);
     a2.Insert(4, 2);
